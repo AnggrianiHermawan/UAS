@@ -288,3 +288,6 @@ pythoN
             break
         else:
             print("Pilihan tidak valid!")
+
+LINK YOUTUBE:
+https://youtu.be/hx37smJxz3A?si=ktczUKfrFB2_Xuvq
